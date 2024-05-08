@@ -1,0 +1,4 @@
+termux-setup-storage
+pkg update & pkg upgrade 
+apt update & pkg upgrade 
+pkg install python
